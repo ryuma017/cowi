@@ -16,18 +16,18 @@
 /// | 11 | oom | Read an integer from STDIN and put it into the current memory block.
 #[derive(Debug)]
 pub enum Instruction {
-    LoopEnd,          // moo
-    DecrementPointer, // mOo
-    IncrementPointer, // moO
-    ExecuteValue,     // mOO
-    ReadOrWrite,      // Moo
-    DecrementByte,    // MOo
-    IncrementByte,    // MoO
-    LoopBigin,        // MOO
-    ReadStdin,        // oom
-    SetZero,          // OOO
-    CopyOrPaste,      // MMM
-    WriteStdout,      // OOM
+    LoopEnd = 0,          // moo
+    DecrementPointer = 1, // mOo
+    IncrementPointer = 2, // moO
+    ExecuteValue = 3,     // mOO
+    ReadOrWrite = 4,      // Moo
+    DecrementByte = 5,    // MOo
+    IncrementByte = 6,    // MoO
+    LoopBigin = 7,        // MOO
+    ReadStdin = 8,        // oom
+    SetZero = 9,          // OOO
+    CopyOrPaste = 10,     // MMM
+    WriteStdout = 11,     // OOM
 }
 
 pub trait AsInstruction {
@@ -51,5 +51,11 @@ impl AsInstruction for [u8] {
             b"OOM" => Some(Instruction::WriteStdout),
             _ => None,
         }
+    }
+}
+
+impl Instruction {
+    pub fn code(self) -> usize {
+        self as usize
     }
 }
