@@ -31,10 +31,7 @@ fn main() -> anyhow::Result<()> {
         if cursor.position() == (length - 2) as u64 {
             break;
         }
-        match cursor.read_exact(&mut buffer) {
-            Ok(()) => {},
-            Err(e) => panic!("{e}")
-        };
+        cursor.read_exact(&mut buffer)?;
         if let Some(i) = buffer.as_instruction() {
             program.push(i);
         }
