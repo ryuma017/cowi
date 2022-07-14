@@ -14,7 +14,7 @@
 /// | 9 | MMM | If no current value in register, copy current memory block value. If there is a value in the register, then paste that value into the current memory block and clear the register.
 /// | 10 | OOM | Print value of current memory block to STDOUT as an integer.
 /// | 11 | oom | Read an integer from STDIN and put it into the current memory block.
-#[derive(Debug)]
+#[derive(Debug, PartialEq)]
 pub enum Instruction {
     LoopEnd = 0,          // moo
     DecrementPointer = 1, // mOo
