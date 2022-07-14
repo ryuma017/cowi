@@ -24,10 +24,10 @@ pub enum Instruction {
     DecrementByte = 5,    // MOo
     IncrementByte = 6,    // MoO
     LoopBigin = 7,        // MOO
-    ReadStdin = 8,        // oom
-    SetZero = 9,          // OOO
-    CopyOrPaste = 10,     // MMM
-    WriteStdout = 11,     // OOM
+    SetZero = 8,          // OOO
+    CopyOrPaste = 9,      // MMM
+    WriteStdout = 10,     // OOM
+    ReadStdin = 11,       // oom
 }
 
 pub trait AsInstruction {
@@ -45,10 +45,10 @@ impl AsInstruction for [u8] {
             b"MOo" => Some(Instruction::DecrementByte),
             b"MoO" => Some(Instruction::IncrementByte),
             b"MOO" => Some(Instruction::LoopBigin),
-            b"oom" => Some(Instruction::ReadStdin),
             b"OOO" => Some(Instruction::SetZero),
             b"MMM" => Some(Instruction::CopyOrPaste),
             b"OOM" => Some(Instruction::WriteStdout),
+            b"oom" => Some(Instruction::ReadStdin),
             _ => None,
         }
     }
