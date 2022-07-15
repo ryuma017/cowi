@@ -1,12 +1,16 @@
-use crate::instruction::Instruction;
+use std::io::{self, Read, Write};
+
+use anyhow::{bail, ensure, Result};
+
+use crate::{errors::ErrorKind, instruction::Instruction};
 
 const MEMORY_SIZE: usize = 30000;
 
 pub struct Interpreter {
     program: Vec<Instruction>,
-    memory: [u8; MEMORY_SIZE],
+    memory: [i32; MEMORY_SIZE],
     pointer: usize,
-    position: usize,
+    cursor: usize,
     register: Option<i32>,
 }
 
@@ -16,32 +20,110 @@ impl Interpreter {
             program,
             memory: [0; MEMORY_SIZE],
             pointer: 0,
-            position: 0,
+            cursor: 0,
             register: None,
         }
     }
 
-    fn run(mut self) -> Result<(), std::io::Error> {
+    pub fn run(mut self) -> Result<()> {
         loop {
-            if self.position < self.program.len() {
+            if self.cursor >= self.program.len() {
                 log::info!("Completed successfully.");
                 break Ok(());
             }
 
-            match self.program[self.position] {
-                Instruction::LoopEnd => todo!(),
-                Instruction::DecrementPointer => todo!(),
-                Instruction::IncrementPointer => todo!(),
-                Instruction::ExecuteValue => todo!(),
-                Instruction::ReadOrWrite => todo!(),
-                Instruction::DecrementByte => todo!(),
-                Instruction::IncrementByte => todo!(),
-                Instruction::LoopBigin => todo!(),
-                Instruction::ReadStdin => todo!(),
-                Instruction::SetZero => todo!(),
-                Instruction::CopyOrPaste => todo!(),
-                Instruction::WriteStdout => todo!(),
+            match self.program[self.cursor] {
+                Instruction::LoopEnd => self.loop_end()?,
+                Instruction::DecrementPointer => self.decrement_pointer()?,
+                Instruction::IncrementPointer => self.increment_pointer()?,
+                Instruction::ExecuteValue => self.execute_value()?,
+                Instruction::ReadOrWrite => self.read_or_write()?,
+                Instruction::DecrementByte => self.decrement_byte()?,
+                Instruction::IncrementByte => self.increment_byte()?,
+                Instruction::LoopBigin => self.loop_begin()?,
+                Instruction::SetZero => self.set_zero()?,
+                Instruction::CopyOrPaste => self.copy_or_paste()?,
+                Instruction::WriteStdout => self.write_stdout()?,
+                Instruction::ReadStdin => self.read_stdin()?,
             }
+            log::debug!(
+                "\n\tmemory value: {:?}\n\tpointer: {}\n\tcursor: {}\n\tmemory state: {:?}",
+                self.memory[self.pointer],
+                self.pointer,
+                self.cursor,
+                &self.memory[..20]
+            );
+            self.cursor += 1;
         }
+    }
+
+    /// moo
+    fn loop_end(&mut self) -> Result<()> {
+        unimplemented!()
+    }
+
+    /// mOo
+    fn decrement_pointer(&mut self) -> Result<()> {
+        if self.pointer == 0 {
+            bail!("Overflow");
+        }
+        self.pointer -= 1;
+        log::info!("mOo: decrement pointer");
+        Ok(())
+    }
+
+    /// moO
+    fn increment_pointer(&mut self) -> Result<()> {
+        if self.pointer == MEMORY_SIZE {
+            bail!("Overflow");
+        }
+        self.pointer += 1;
+        log::info!("moO: increment pointer");
+        Ok(())
+    }
+
+    /// mOO
+    fn execute_value(&self) -> Result<()> {
+        unimplemented!()
+    }
+
+    /// Moo
+    fn read_or_write(&mut self) -> Result<()> {
+        unimplemented!()
+    }
+
+    /// MOo
+    fn decrement_byte(&mut self) -> Result<()> {
+        unimplemented!()
+    }
+
+    /// MoO
+    fn increment_byte(&mut self) -> Result<()> {
+        unimplemented!()
+    }
+
+    /// MOO
+    fn loop_begin(&mut self) -> Result<()> {
+        unimplemented!()
+    }
+
+    /// OOO
+    fn set_zero(&mut self) -> Result<()> {
+        unimplemented!()
+    }
+
+    /// MMM
+    fn copy_or_paste(&mut self) -> Result<()> {
+        unimplemented!()
+    }
+
+    /// OOM
+    fn write_stdout(&mut self) -> Result<()> {
+        unimplemented!()
+    }
+
+    /// oom
+    fn read_stdin(&mut self) -> Result<()> {
+        unimplemented!()
     }
 }
