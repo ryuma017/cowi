@@ -88,9 +88,23 @@ impl Interpreter {
         unimplemented!()
     }
 
+    // TODO: input_stream からの入力を受け付ける
     /// Moo
     fn read_or_write(&mut self) -> Result<()> {
-        unimplemented!()
+        let current_memory = &mut (self.memory[self.pointer] as u8);
+        if *current_memory == 0 {
+            log::info!(
+                "Moo: current memory block has 0 - reading a single ASCII charactor from STDIN."
+            );
+            let mut buf = [0; 1];
+            io::stdin().read_exact(&mut buf).unwrap();
+            ensure!(buf.is_ascii(), ErrorKind::InvalidValue);
+            *current_memory = buf[0];
+        } else {
+            log::info!("Moo: current memory block is not 0 - print the ASCII character that corresponds to the value in the current memory block to STDOUT.");
+            io::stdout().write_all(&[*current_memory]).unwrap();
+        }
+        Ok(())
     }
 
     /// MOo
