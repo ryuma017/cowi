@@ -37,18 +37,18 @@ pub trait AsInstruction {
 impl AsInstruction for [u8] {
     fn as_instruction(&self) -> Option<Instruction> {
         match self {
-            b"moo" => Some(Instruction::LoopEnd),
-            b"mOo" => Some(Instruction::DecrementPointer),
-            b"moO" => Some(Instruction::IncrementPointer),
-            b"mOO" => Some(Instruction::ExecuteValue),
-            b"Moo" => Some(Instruction::ReadOrWrite),
-            b"MOo" => Some(Instruction::DecrementByte),
-            b"MoO" => Some(Instruction::IncrementByte),
-            b"MOO" => Some(Instruction::LoopBigin),
-            b"OOO" => Some(Instruction::SetZero),
-            b"MMM" => Some(Instruction::CopyOrPaste),
-            b"OOM" => Some(Instruction::WriteStdout),
-            b"oom" => Some(Instruction::ReadStdin),
+            [0x6d, 0x6f, 0x6f] => Some(Instruction::LoopEnd),
+            [0x6d, 0x4f, 0x6f] => Some(Instruction::DecrementPointer),
+            [0x6d, 0x6f, 0x4f] => Some(Instruction::IncrementPointer),
+            [0x6d, 0x4f, 0x4f] => Some(Instruction::ExecuteValue),
+            [0x4d, 0x6f, 0x6f] => Some(Instruction::ReadOrWrite),
+            [0x4d, 0x4f, 0x6f] => Some(Instruction::DecrementByte),
+            [0x4d, 0x6f, 0x4f] => Some(Instruction::IncrementByte),
+            [0x4d, 0x4f, 0x4f] => Some(Instruction::LoopBigin),
+            [0x4f, 0x4f, 0x4f] => Some(Instruction::SetZero),
+            [0x4d, 0x4d, 0x4d] => Some(Instruction::CopyOrPaste),
+            [0x4f, 0x4f, 0x4d] => Some(Instruction::WriteStdout),
+            [0x6f, 0x6f, 0x6d] => Some(Instruction::ReadStdin),
             _ => None,
         }
     }
