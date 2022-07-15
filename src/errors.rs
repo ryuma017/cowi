@@ -1,13 +1,15 @@
 #[derive(Debug, Copy, Clone)]
 pub enum ErrorKind {
-    InvalidValue,
+    NotAscii,
+    NotInteger,
     OverFlow,
 }
 
 impl ErrorKind {
     pub fn as_str(self) -> Option<&'static str> {
         match self {
-            Self::InvalidValue => Some("COW expect only ASCII charactors"),
+            Self::NotAscii => Some("Expect ASCII charactors but given invalid value"),
+            Self::NotInteger => Some("Expect integer but given invalid value"),
             Self::OverFlow => Some("Current memory value has overflowed"),
         }
     }
