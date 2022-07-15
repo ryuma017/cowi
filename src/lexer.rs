@@ -37,19 +37,22 @@ impl Lexer {
         let mut program = vec![];
 
         loop {
-            if cursor.position() == (length - 2) as u64 {
+            if cursor.position() >= (length - 2) as u64 {
                 log::info!("Lexical analysis completed successfully.");
                 break;
             }
+
             cursor.read_exact(&mut buffer)?;
+
             if let Some(instruction) = buffer.as_instruction() {
                 program.push(instruction)
+            } else {
+                let current_position = cursor.position();
+                cursor.set_position(current_position - 2);
             }
-            let current_position = cursor.position();
-            cursor.set_position(current_position - 2);
         }
 
-        log::debug!("Results of lexical analysis: {:#?}", program);
+        log::debug!("Results of lexical analysis: {:?}", program);
 
         Ok(program)
     }
@@ -57,12 +60,11 @@ impl Lexer {
 
 #[test]
 fn lex_works() {
-    // M: 77, m: 109, O: 79, o: 111
     let lexer = Lexer {
         bytes: vec![
-            109, 111, 111, 32, 109, 79, 111, 32, 109, 111, 79, 32, 109, 79, 79, 32, 77, 111, 111,
-            32, 77, 79, 111, 32, 77, 111, 79, 32, 77, 79, 79, 32, 111, 111, 109, 32, 79, 79, 79,
-            32, 77, 77, 77, 32, 79, 79, 77,
+            0x6d, 0x6f, 0x6f, 0x20, 0x6d, 0x4f, 0x6f, 0x20, 0x6d, 0x6f, 0x4f, 0x20, 0x6d, 0x4f, 0x4f, 0x20, 0x4d, 0x6f,
+            0x6f, 0x20, 0x4d, 0x4f, 0x6f, 0x20, 0x4d, 0x6f, 0x4f, 0x20, 0x4d, 0x4f, 0x4f, 0x20, 0x4f, 0x4f, 0x4f, 0x20, 0x4d,
+            0x4d, 0x4d, 0x20, 0x4f, 0x4f, 0x4d, 0x20, 0x6f, 0x6f, 0x6d,
         ],
     };
     assert_eq!(
@@ -76,10 +78,10 @@ fn lex_works() {
             Instruction::DecrementByte,
             Instruction::IncrementByte,
             Instruction::LoopBigin,
-            Instruction::ReadStdin,
             Instruction::SetZero,
             Instruction::CopyOrPaste,
-            Instruction::WriteStdout
+            Instruction::WriteStdout,
+            Instruction::ReadStdin,
         ]
     );
 }
