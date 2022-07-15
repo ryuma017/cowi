@@ -12,6 +12,7 @@ pub struct Interpreter {
     pointer: usize,
     cursor: usize,
     register: Option<i32>,
+    // input_stream: Option<Vec<u8>>,
 }
 
 impl Interpreter {
@@ -65,7 +66,7 @@ impl Interpreter {
     /// mOo
     fn decrement_pointer(&mut self) -> Result<()> {
         if self.pointer == 0 {
-            bail!("Overflow");
+            bail!(ErrorKind::OverFlow);
         }
         self.pointer -= 1;
         log::info!("mOo: decrement pointer");
@@ -75,7 +76,7 @@ impl Interpreter {
     /// moO
     fn increment_pointer(&mut self) -> Result<()> {
         if self.pointer == MEMORY_SIZE {
-            bail!("Overflow");
+            bail!(ErrorKind::OverFlow);
         }
         self.pointer += 1;
         log::info!("moO: increment pointer");
@@ -94,12 +95,18 @@ impl Interpreter {
 
     /// MOo
     fn decrement_byte(&mut self) -> Result<()> {
-        unimplemented!()
+        // wrapping_add: オーバーフローを無視して減算する
+        self.memory[self.pointer] = self.memory[self.pointer].wrapping_sub(1);
+        log::info!("MOo: decrement current memory value by 1");
+        Ok(())
     }
 
     /// MoO
     fn increment_byte(&mut self) -> Result<()> {
-        unimplemented!()
+        // wrapping_sub: オーバーフローを無視して加算する
+        self.memory[self.pointer] = self.memory[self.pointer].wrapping_add(1);
+        log::info!("MoO: increment current memory value by 1");
+        Ok(())
     }
 
     /// MOO
