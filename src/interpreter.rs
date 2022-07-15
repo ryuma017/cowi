@@ -133,7 +133,8 @@ impl Interpreter {
 
     /// OOO
     fn set_zero(&mut self) -> Result<()> {
-        unimplemented!()
+        self.memory[self.pointer] = 0;
+        Ok(())
     }
 
     /// MMM
