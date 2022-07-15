@@ -2,6 +2,8 @@
 name = "cowi"
 version = "0.1.0"
 edition = "2021"
+author = ["ryuma017 <tgcrym01@gmail.com>"]
+description = "A interpreter for COW programming language"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
