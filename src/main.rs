@@ -10,9 +10,6 @@ struct Arg {
     /// Path to COW file
     #[clap(parse(from_os_str))]
     file_path: PathBuf,
-    // TODO: 引数から input stream を得る
-    // #[clap(short, long)]
-    // input: Option<String>,
 }
 
 fn main() -> anyhow::Result<()> {
