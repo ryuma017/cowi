@@ -154,7 +154,31 @@ impl Interpreter {
 
     /// MOO
     fn begin_loop(&mut self) -> Result<()> {
-        unimplemented!()
+        if self.memory[self.pointer] == 0 {
+            ensure!(
+                self.program_counter + 2 < self.program.len(),
+                ErrorKind::UnmatchedEndLoop
+            );
+            // pc: Program counter for this loop
+            let mut pc = self.program_counter + 2;
+            // c: Count `moo` and `MOO`
+            let mut c = 1;
+
+            loop {
+                match self.program[pc] {
+                    Instruction::BeginLoop => c += 1,
+                    Instruction::EndLoop => c -= 1,
+                    _ => {}
+                }
+                if c == 0 {
+                    self.program_counter = pc;
+                    break;
+                }
+                ensure!(pc + 1 < self.program.len(), ErrorKind::UnmatchedEndLoop);
+                pc += 1;
+            }
+        }
+        Ok(())
     }
 
     /// OOO
