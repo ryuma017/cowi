@@ -1,4 +1,4 @@
-use std::io::{self, BufRead, Read, Write};
+use std::{io::{self, BufRead, Read, Write}, process::exit};
 
 use anyhow::{bail, ensure, Result};
 
@@ -13,9 +13,8 @@ pub struct Interpreter {
     program: Vec<Instruction>,
     memory: [i32; MEMORY_SIZE],
     pointer: usize,
-    cursor: usize,
+    program_counter: usize,
     register: Option<i32>,
-    // input_stream: Option<Vec<u8>>,
 }
 
 impl Interpreter {
@@ -24,7 +23,7 @@ impl Interpreter {
             program,
             memory: [0; MEMORY_SIZE],
             pointer: 0,
-            cursor: 0,
+            program_counter: 0,
             register: None,
         }
     }
@@ -40,14 +39,14 @@ impl Interpreter {
         W: Write,
     {
         match instruction {
-            Instruction::LoopEnd => self.loop_end(),
+            Instruction::EndLoop => self.end_loop(),
             Instruction::DecrementPointer => self.decrement_pointer(),
             Instruction::IncrementPointer => self.increment_pointer(),
             Instruction::ExecuteValue => self.execute_value(stdin, stdout),
             Instruction::ReadOrWrite => self.read_or_write(stdin, stdout),
             Instruction::DecrementByte => self.decrement_byte(),
             Instruction::IncrementByte => self.increment_byte(),
-            Instruction::LoopBigin => self.loop_begin(),
+            Instruction::BeginLoop => self.begin_loop(),
             Instruction::SetZero => self.set_zero(),
             Instruction::CopyOrPaste => self.copy_or_paste(),
             Instruction::WriteStdout => self.write_stdout(stdout),
@@ -60,12 +59,12 @@ impl Interpreter {
         let mut stdout = io::stdout().lock();
 
         loop {
-            if self.cursor >= self.program.len() {
+            if self.program_counter >= self.program.len() {
                 log::debug!("Completed successfully.");
                 break Ok(self);
             }
 
-            self.instruction_matches(self.program[self.cursor], &mut stdin, &mut stdout)?;
+            self.instruction_matches(self.program[self.program_counter], &mut stdin, &mut stdout)?;
 
             log::debug!(
                 "\n\tmemory value: {:?}\n\tpointer: {}\n\tregister: {:?}\n\tmemory state: {:?}",
@@ -74,12 +73,12 @@ impl Interpreter {
                 self.register,
                 &self.memory[..20]
             );
-            self.cursor += 1;
+            self.program_counter += 1;
         }
     }
 
     /// moo
-    fn loop_end(&mut self) -> Result<()> {
+    fn end_loop(&mut self) -> Result<()> {
         unimplemented!()
     }
 
@@ -119,7 +118,6 @@ impl Interpreter {
         }
     }
 
-    // TODO: input_stream からの入力を受け付ける
     /// Moo
     fn read_or_write<R: Read, W: Write>(&mut self, stdin: &mut R, stdout: &mut W) -> Result<()> {
         let current_memory = &mut self.memory[self.pointer];
@@ -155,7 +153,7 @@ impl Interpreter {
     }
 
     /// MOO
-    fn loop_begin(&mut self) -> Result<()> {
+    fn begin_loop(&mut self) -> Result<()> {
         unimplemented!()
     }
 
@@ -211,7 +209,7 @@ mod tests {
                 program: vec![],
                 memory: [0; MEMORY_SIZE],
                 pointer: 0,
-                cursor: 0,
+                program_counter: 0,
                 register: None,
             }
         }
@@ -229,7 +227,7 @@ mod tests {
     fn rerun_with(program: Vec<Instruction>, state: Interpreter) -> Interpreter {
         let interpreter = Interpreter {
             program,
-            cursor: 0,
+            program_counter: 0,
             ..state
         };
         interpreter.run().unwrap()

@@ -75,14 +75,14 @@ mod tests {
         assert_eq!(
             lexer.lex().unwrap(),
             vec![
-                Instruction::LoopEnd,
+                Instruction::EndLoop,
                 Instruction::DecrementPointer,
                 Instruction::IncrementPointer,
                 Instruction::ExecuteValue,
                 Instruction::ReadOrWrite,
                 Instruction::DecrementByte,
                 Instruction::IncrementByte,
-                Instruction::LoopBigin,
+                Instruction::BeginLoop,
                 Instruction::SetZero,
                 Instruction::CopyOrPaste,
                 Instruction::WriteStdout,

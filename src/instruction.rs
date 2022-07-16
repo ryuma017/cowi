@@ -16,14 +16,14 @@
 /// | 11 | oom | Read an integer from STDIN and put it into the current memory block.
 #[derive(Debug, Clone, Copy, PartialEq)]
 pub enum Instruction {
-    LoopEnd,          // moo
+    EndLoop,          // moo
     DecrementPointer, // mOo
     IncrementPointer, // moO
     ExecuteValue,     // mOO
     ReadOrWrite,      // Moo
     DecrementByte,    // MOo
     IncrementByte,    // MoO
-    LoopBigin,        // MOO
+    BeginLoop,        // MOO
     SetZero,          // OOO
     CopyOrPaste,      // MMM
     WriteStdout,      // OOM
@@ -37,14 +37,14 @@ pub trait AsInstruction {
 impl AsInstruction for [u8; 3] {
     fn as_instruction(&self) -> Option<Instruction> {
         match self {
-            [0x6d, 0x6f, 0x6f] => Some(Instruction::LoopEnd),
+            [0x6d, 0x6f, 0x6f] => Some(Instruction::EndLoop),
             [0x6d, 0x4f, 0x6f] => Some(Instruction::DecrementPointer),
             [0x6d, 0x6f, 0x4f] => Some(Instruction::IncrementPointer),
             [0x6d, 0x4f, 0x4f] => Some(Instruction::ExecuteValue),
             [0x4d, 0x6f, 0x6f] => Some(Instruction::ReadOrWrite),
             [0x4d, 0x4f, 0x6f] => Some(Instruction::DecrementByte),
             [0x4d, 0x6f, 0x4f] => Some(Instruction::IncrementByte),
-            [0x4d, 0x4f, 0x4f] => Some(Instruction::LoopBigin),
+            [0x4d, 0x4f, 0x4f] => Some(Instruction::BeginLoop),
             [0x4f, 0x4f, 0x4f] => Some(Instruction::SetZero),
             [0x4d, 0x4d, 0x4d] => Some(Instruction::CopyOrPaste),
             [0x4f, 0x4f, 0x4d] => Some(Instruction::WriteStdout),
@@ -57,14 +57,14 @@ impl AsInstruction for [u8; 3] {
 impl AsInstruction for i32 {
     fn as_instruction(&self) -> Option<Instruction> {
         match self {
-            0 => Some(Instruction::LoopEnd),
+            0 => Some(Instruction::EndLoop),
             1 => Some(Instruction::DecrementPointer),
             2 => Some(Instruction::IncrementPointer),
             3 => Some(Instruction::ExecuteValue),
             4 => Some(Instruction::ReadOrWrite),
             5 => Some(Instruction::DecrementByte),
             6 => Some(Instruction::IncrementByte),
-            7 => Some(Instruction::LoopBigin),
+            7 => Some(Instruction::BeginLoop),
             8 => Some(Instruction::SetZero),
             9 => Some(Instruction::CopyOrPaste),
             10 => Some(Instruction::WriteStdout),
