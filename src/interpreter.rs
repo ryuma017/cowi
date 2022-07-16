@@ -2,7 +2,10 @@ use std::io::{self, BufRead, Read, Write};
 
 use anyhow::{bail, ensure, Result};
 
-use crate::{errors::ErrorKind, instruction::Instruction};
+use crate::{
+    errors::ErrorKind,
+    instruction::{AsInstruction, Instruction},
+};
 
 const MEMORY_SIZE: usize = 30000;
 
@@ -26,30 +29,44 @@ impl Interpreter {
         }
     }
 
+    fn instruction_matches<R, W>(
+        &mut self,
+        instruction: Instruction,
+        stdin: &mut R,
+        stdout: &mut W,
+    ) -> Result<()>
+    where
+        R: BufRead + Read,
+        W: Write,
+    {
+        match instruction {
+            Instruction::LoopEnd => self.loop_end(),
+            Instruction::DecrementPointer => self.decrement_pointer(),
+            Instruction::IncrementPointer => self.increment_pointer(),
+            Instruction::ExecuteValue => self.execute_value(stdin, stdout),
+            Instruction::ReadOrWrite => self.read_or_write(stdin, stdout),
+            Instruction::DecrementByte => self.decrement_byte(),
+            Instruction::IncrementByte => self.increment_byte(),
+            Instruction::LoopBigin => self.loop_begin(),
+            Instruction::SetZero => self.set_zero(),
+            Instruction::CopyOrPaste => self.copy_or_paste(),
+            Instruction::WriteStdout => self.write_stdout(stdout),
+            Instruction::ReadStdin => self.read_stdin(stdin),
+        }
+    }
+
     pub fn run(mut self) -> Result<Self> {
+        let mut stdin = io::stdin().lock();
+        let mut stdout = io::stdout().lock();
+
         loop {
             if self.cursor >= self.program.len() {
                 log::debug!("Completed successfully.");
                 break Ok(self);
             }
 
-            let mut stdin = io::stdin().lock();
-            let mut stdout = io::stdout().lock();
+            self.instruction_matches(self.program[self.cursor], &mut stdin, &mut stdout)?;
 
-            match self.program[self.cursor] {
-                Instruction::LoopEnd => self.loop_end()?,
-                Instruction::DecrementPointer => self.decrement_pointer()?,
-                Instruction::IncrementPointer => self.increment_pointer()?,
-                Instruction::ExecuteValue => self.execute_value()?,
-                Instruction::ReadOrWrite => self.read_or_write(&mut stdin, &mut stdout)?,
-                Instruction::DecrementByte => self.decrement_byte()?,
-                Instruction::IncrementByte => self.increment_byte()?,
-                Instruction::LoopBigin => self.loop_begin()?,
-                Instruction::SetZero => self.set_zero()?,
-                Instruction::CopyOrPaste => self.copy_or_paste()?,
-                Instruction::WriteStdout => self.write_stdout(&mut stdout)?,
-                Instruction::ReadStdin => self.read_stdin(&mut stdin)?,
-            }
             log::debug!(
                 "\n\tmemory value: {:?}\n\tpointer: {}\n\tregister: {:?}\n\tmemory state: {:?}",
                 self.memory[self.pointer],
@@ -87,8 +104,19 @@ impl Interpreter {
     }
 
     /// mOO
-    fn execute_value(&self) -> Result<()> {
-        unimplemented!()
+    fn execute_value<R: BufRead + Read, W: Write>(
+        &mut self,
+        stdin: &mut R,
+        stdout: &mut W,
+    ) -> Result<()> {
+        let instruction_or_none = self.memory[self.pointer].as_instruction();
+        match instruction_or_none {
+            None => bail!(ErrorKind::InvalidCode),
+            Some(instruction) if instruction != Instruction::ExecuteValue => {
+                bail!(ErrorKind::InfiniteLoop)
+            }
+            Some(instruction) => self.instruction_matches(instruction, stdin, stdout),
+        }
     }
 
     // TODO: input_stream からの入力を受け付ける

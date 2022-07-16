@@ -14,27 +14,27 @@
 /// | 9 | MMM | If no current value in register, copy current memory block value. If there is a value in the register, then paste that value into the current memory block and clear the register.
 /// | 10 | OOM | Print value of current memory block to STDOUT as an integer.
 /// | 11 | oom | Read an integer from STDIN and put it into the current memory block.
-#[derive(Debug, PartialEq)]
+#[derive(Debug, Clone, Copy, PartialEq)]
 pub enum Instruction {
-    LoopEnd = 0,          // moo
-    DecrementPointer = 1, // mOo
-    IncrementPointer = 2, // moO
-    ExecuteValue = 3,     // mOO
-    ReadOrWrite = 4,      // Moo
-    DecrementByte = 5,    // MOo
-    IncrementByte = 6,    // MoO
-    LoopBigin = 7,        // MOO
-    SetZero = 8,          // OOO
-    CopyOrPaste = 9,      // MMM
-    WriteStdout = 10,     // OOM
-    ReadStdin = 11,       // oom
+    LoopEnd,          // moo
+    DecrementPointer, // mOo
+    IncrementPointer, // moO
+    ExecuteValue,     // mOO
+    ReadOrWrite,      // Moo
+    DecrementByte,    // MOo
+    IncrementByte,    // MoO
+    LoopBigin,        // MOO
+    SetZero,          // OOO
+    CopyOrPaste,      // MMM
+    WriteStdout,      // OOM
+    ReadStdin,        // oom
 }
 
 pub trait AsInstruction {
     fn as_instruction(&self) -> Option<Instruction>;
 }
 
-impl AsInstruction for [u8] {
+impl AsInstruction for [u8; 3] {
     fn as_instruction(&self) -> Option<Instruction> {
         match self {
             [0x6d, 0x6f, 0x6f] => Some(Instruction::LoopEnd),
@@ -54,8 +54,22 @@ impl AsInstruction for [u8] {
     }
 }
 
-impl Instruction {
-    pub fn code(self) -> usize {
-        self as usize
+impl AsInstruction for i32 {
+    fn as_instruction(&self) -> Option<Instruction> {
+        match self {
+            0 => Some(Instruction::LoopEnd),
+            1 => Some(Instruction::DecrementPointer),
+            2 => Some(Instruction::IncrementPointer),
+            3 => Some(Instruction::ExecuteValue),
+            4 => Some(Instruction::ReadOrWrite),
+            5 => Some(Instruction::DecrementByte),
+            6 => Some(Instruction::IncrementByte),
+            7 => Some(Instruction::LoopBigin),
+            8 => Some(Instruction::SetZero),
+            9 => Some(Instruction::CopyOrPaste),
+            10 => Some(Instruction::WriteStdout),
+            11 => Some(Instruction::ReadStdin),
+            _ => None,
+        }
     }
 }
