@@ -5,6 +5,7 @@ pub enum ErrorKind {
     NotAscii,
     NotInteger,
     OverFlow,
+    UnmatchedBeginLoop,
     UnmatchedEndLoop,
 }
 
@@ -18,6 +19,7 @@ impl ErrorKind {
             Self::NotAscii => Some("Expect ASCII charactors but given invalid value"),
             Self::NotInteger => Some("Expect 32-bit signed integer but given invalid value"),
             Self::OverFlow => Some("Current memory value has overflowed"),
+            Self::UnmatchedBeginLoop => Some("Could not find matching `MOO` command"),
             Self::UnmatchedEndLoop => Some("Could not find matching `moo` command"),
         }
     }
