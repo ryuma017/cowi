@@ -1,0 +1,59 @@
+[[ Move to next memory block (index 1) ]]
+moO
+[[ Increment to 32 ]]
+MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO
+MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO
+MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO
+MoO MoO
+[[ Put current value (32) in register ]]
+MMM
+[[ Increment to 72 ]]
+MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO
+MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO
+MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO
+MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO
+[[ Print 'H' ]]
+Moo
+[[ Increment to 101 ]]
+MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO
+MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO
+MoO MoO MoO MoO MoO MoO MoO MoO MoO
+[[ Print 'e' ]]
+Moo
+[[ Increment to 108 ]]
+MoO MoO MoO MoO MoO MoO MoO
+[[ Print 'l' two times ]]
+Moo Moo
+[[ Increment to 111, print 'o' ]]
+MoO MoO MoO
+Moo
+[[ Go to next block and put register value (32) in there ]]
+moO MMM
+[[ Copy the value (32) in register and paste it into next block ]]
+MMM moO MMM
+[[ Increment to 44, print ',' ]]
+MoO MoO MoO MoO MoO MoO MoO MoO MoO MoO
+MoO MoO
+Moo
+[[ Go to previous block, print ' ' (space) ]]
+mOo Moo
+[[ Go to previous block, copy value and paste it in previous block ]]
+mOo MMM mOo MMM
+[[ Increment to 119, Print 'w' ]]
+MoO MoO MoO MoO MoO MoO MoO MoO
+Moo
+[[ Move to next block and print 'o' ]]
+moO Moo
+[[ Increment to 114, print 'r' ]]
+MoO MoO MoO
+Moo
+[[ Decrement to 108, print 'o' ]]
+MOo MOo MOo MOo MOo MOo
+Moo
+[[ Decrement to 100, print 'd' ]]
+MOo MOo MOo MOo MOo MOo MOo MOo
+Moo
+[[ Go to next block, increment by 1, print '!' ]]
+moO
+MoO
+Moo

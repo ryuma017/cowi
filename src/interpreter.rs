@@ -1,4 +1,4 @@
-use std::{io::{self, BufRead, Read, Write}, process::exit};
+use std::io::{self, BufRead, Read, Write};
 
 use anyhow::{bail, ensure, Result};
 
