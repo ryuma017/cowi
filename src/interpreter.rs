@@ -26,11 +26,11 @@ impl Interpreter {
         }
     }
 
-    pub fn run(mut self) -> Result<()> {
+    pub fn run(mut self) -> Result<Self> {
         loop {
             if self.cursor >= self.program.len() {
                 log::debug!("Completed successfully.");
-                break Ok(());
+                break Ok(self);
             }
 
             let mut stdin = io::stdin().lock();
@@ -51,10 +51,10 @@ impl Interpreter {
                 Instruction::ReadStdin => self.read_stdin(&mut stdin)?,
             }
             log::debug!(
-                "\n\tmemory value: {:?}\n\tpointer: {}\n\tcursor: {}\n\tmemory state: {:?}",
+                "\n\tmemory value: {:?}\n\tpointer: {}\n\tregister: {:?}\n\tmemory state: {:?}",
                 self.memory[self.pointer],
                 self.pointer,
-                self.cursor,
+                self.register,
                 &self.memory[..20]
             );
             self.cursor += 1;
@@ -162,5 +162,107 @@ impl Interpreter {
         }
         log::debug!("oom: reading an integer from STDIN and put it into the current memory block");
         Ok(())
+    }
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+    use crate::instruction::Instruction::{self, *};
+
+    impl Default for Interpreter {
+        fn default() -> Self {
+            Interpreter {
+                program: vec![],
+                memory: [0; MEMORY_SIZE],
+                pointer: 0,
+                cursor: 0,
+                register: None,
+            }
+        }
+    }
+
+    fn run_with(program: Vec<Instruction>, default_pointer: usize) -> Interpreter {
+        let interpreter = Interpreter {
+            program,
+            pointer: default_pointer,
+            ..Default::default()
+        };
+        interpreter.run().unwrap()
+    }
+
+    fn rerun_with(program: Vec<Instruction>, state: Interpreter) -> Interpreter {
+        let interpreter = Interpreter { program, cursor: 0, ..state };
+        interpreter.run().unwrap()
+    }
+
+    #[test]
+    fn decrement_pointer_works() {
+        // mOo mOo mOo
+        let program = vec![DecrementPointer, DecrementPointer, DecrementPointer];
+
+        let state = run_with(program, 5);
+
+        assert_eq!(state.pointer, 2);
+    }
+
+    #[test]
+    fn increment_pointer_works() {
+        // moO moO moO
+        let program = vec![IncrementPointer, IncrementPointer, IncrementPointer];
+
+        let state = run_with(program, 0);
+
+        assert_eq!(state.pointer, 3);
+    }
+
+    #[test]
+    fn decrement_byte_works() {
+        // MOo MOo MOo
+        let program = vec![DecrementByte, DecrementByte, DecrementByte];
+
+        let state = run_with(program, 0);
+
+        assert_eq!(state.memory[..5], [-3, 0, 0, 0, 0]);
+    }
+
+    #[test]
+    fn increment_byte_works() {
+        // MoO MoO MoO
+        let program = vec![IncrementByte, IncrementByte, IncrementByte];
+
+        let state = run_with(program, 0);
+
+        assert_eq!(state.memory[..5], [3, 0, 0, 0, 0])
+    }
+
+    #[test]
+    fn set_zero_works() {
+        // MoO moO MoO
+        let program1 = vec![IncrementByte, IncrementPointer, IncrementByte];
+        // OOO mOo OOO
+        let program2 = vec![SetZero, DecrementPointer, SetZero];
+
+        let state = run_with(program1, 0);
+        assert_eq!(state.memory[..5], [1, 1, 0, 0, 0]);
+
+        let state = rerun_with(program2, state);
+        assert_eq!(state.memory[..5], [0, 0, 0, 0, 0])
+    }
+
+    #[test]
+    fn copy_or_paste_works() {
+        // MoO MoO MMM
+        let program1 = vec![IncrementByte, IncrementByte, CopyOrPaste];
+        // moO MMM
+        let program2 = vec![IncrementPointer, CopyOrPaste];
+
+        let state = run_with(program1, 0);
+        assert_eq!(state.memory[..5], [2, 0, 0, 0, 0]);
+        assert_eq!(state.register, Some(2));
+
+        let state = rerun_with(program2, state);
+        assert_eq!(state.memory[..5], [2, 2, 0, 0, 0]);
+        assert_eq!(state.register, None);
     }
 }

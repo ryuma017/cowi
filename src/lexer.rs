@@ -58,31 +58,36 @@ impl Lexer {
     }
 }
 
-#[test]
-fn lex_works() {
-    let lexer = Lexer {
-        bytes: vec![
-            0x6d, 0x6f, 0x6f, 0x20, 0x6d, 0x4f, 0x6f, 0x20, 0x6d, 0x6f, 0x4f, 0x20, 0x6d, 0x4f,
-            0x4f, 0x20, 0x4d, 0x6f, 0x6f, 0x20, 0x4d, 0x4f, 0x6f, 0x20, 0x4d, 0x6f, 0x4f, 0x20,
-            0x4d, 0x4f, 0x4f, 0x20, 0x4f, 0x4f, 0x4f, 0x20, 0x4d, 0x4d, 0x4d, 0x20, 0x4f, 0x4f,
-            0x4d, 0x20, 0x6f, 0x6f, 0x6d,
-        ],
-    };
-    assert_eq!(
-        lexer.lex().unwrap(),
-        vec![
-            Instruction::LoopEnd,
-            Instruction::DecrementPointer,
-            Instruction::IncrementPointer,
-            Instruction::ExecuteValue,
-            Instruction::ReadOrWrite,
-            Instruction::DecrementByte,
-            Instruction::IncrementByte,
-            Instruction::LoopBigin,
-            Instruction::SetZero,
-            Instruction::CopyOrPaste,
-            Instruction::WriteStdout,
-            Instruction::ReadStdin,
-        ]
-    );
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn lex_works() {
+        let lexer = Lexer {
+            bytes: vec![
+                0x6d, 0x6f, 0x6f, 0x20, 0x6d, 0x4f, 0x6f, 0x20, 0x6d, 0x6f, 0x4f, 0x20, 0x6d, 0x4f,
+                0x4f, 0x20, 0x4d, 0x6f, 0x6f, 0x20, 0x4d, 0x4f, 0x6f, 0x20, 0x4d, 0x6f, 0x4f, 0x20,
+                0x4d, 0x4f, 0x4f, 0x20, 0x4f, 0x4f, 0x4f, 0x20, 0x4d, 0x4d, 0x4d, 0x20, 0x4f, 0x4f,
+                0x4d, 0x20, 0x6f, 0x6f, 0x6d,
+            ],
+        };
+        assert_eq!(
+            lexer.lex().unwrap(),
+            vec![
+                Instruction::LoopEnd,
+                Instruction::DecrementPointer,
+                Instruction::IncrementPointer,
+                Instruction::ExecuteValue,
+                Instruction::ReadOrWrite,
+                Instruction::DecrementByte,
+                Instruction::IncrementByte,
+                Instruction::LoopBigin,
+                Instruction::SetZero,
+                Instruction::CopyOrPaste,
+                Instruction::WriteStdout,
+                Instruction::ReadStdin,
+            ]
+        );
+    }
 }
