@@ -139,7 +139,14 @@ impl Interpreter {
 
     /// MMM
     fn copy_or_paste(&mut self) -> Result<()> {
-        unimplemented!()
+        let current_memory = &mut self.memory[self.pointer];
+        if let Some(value) = self.register {
+            *current_memory = value;
+            self.register = None;
+        } else {
+            self.register = Some(*current_memory);
+        }
+        Ok(())
     }
 
     /// OOM
