@@ -199,7 +199,11 @@ mod tests {
     }
 
     fn rerun_with(program: Vec<Instruction>, state: Interpreter) -> Interpreter {
-        let interpreter = Interpreter { program, cursor: 0, ..state };
+        let interpreter = Interpreter {
+            program,
+            cursor: 0,
+            ..state
+        };
         interpreter.run().unwrap()
     }
 
