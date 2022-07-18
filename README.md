@@ -1,4 +1,4 @@
-# cowi (on-going)
+# cowi
 
 This is a interpreter for COW programming language.
 
