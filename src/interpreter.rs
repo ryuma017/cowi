@@ -140,7 +140,7 @@ impl Interpreter {
             Some(instruction) => {
                 log::debug!("mOO: execute code {}.", self.memory[self.pointer]);
                 self.instruction_matches(instruction, stdin, stdout)
-            },
+            }
         }
     }
 
@@ -205,7 +205,10 @@ impl Interpreter {
                 pc += 1;
             }
         } else {
-            log::debug!("MOO: current memory block has {} - continue with next command.", self.memory[self.pointer]);
+            log::debug!(
+                "MOO: current memory block has {} - continue with next command.",
+                self.memory[self.pointer]
+            );
         }
         Ok(())
     }
