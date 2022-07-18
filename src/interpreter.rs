@@ -81,6 +81,7 @@ impl Interpreter {
     fn end_loop(&mut self) -> Result<()> {
         if self.memory[self.pointer] != 0 {
             ensure!(2 <= self.program_counter, ErrorKind::UnmatchedBeginLoop);
+            log::debug!("moo: current memory block has {} - begin executing again starting from the found `MOO` command.", self.memory[self.pointer]);
             // pc: Program counter for this loop
             let mut pc = self.program_counter - 2;
             // c: Count `moo` and `MOO`
@@ -98,6 +99,8 @@ impl Interpreter {
                 ensure!(0 < pc, ErrorKind::UnmatchedBeginLoop);
                 pc -= 1;
             }
+        } else {
+            log::debug!("moo: current memory block has 0 - end loop.");
         }
         Ok(())
     }
@@ -108,7 +111,7 @@ impl Interpreter {
             bail!(ErrorKind::OverFlow);
         }
         self.pointer -= 1;
-        log::debug!("mOo: decrement pointer");
+        log::debug!("mOo: decrement pointer.");
         Ok(())
     }
 
@@ -118,7 +121,7 @@ impl Interpreter {
             bail!(ErrorKind::OverFlow);
         }
         self.pointer += 1;
-        log::debug!("moO: increment pointer");
+        log::debug!("moO: increment pointer.");
         Ok(())
     }
 
@@ -131,10 +134,13 @@ impl Interpreter {
         let instruction_or_none = self.memory[self.pointer].as_instruction();
         match instruction_or_none {
             None => bail!(ErrorKind::InvalidCode),
-            Some(instruction) if instruction != Instruction::ExecuteValue => {
+            Some(instruction) if instruction == Instruction::ExecuteValue => {
                 bail!(ErrorKind::InfiniteLoop)
             }
-            Some(instruction) => self.instruction_matches(instruction, stdin, stdout),
+            Some(instruction) => {
+                log::debug!("mOO: execute code {}.", self.memory[self.pointer]);
+                self.instruction_matches(instruction, stdin, stdout)
+            },
         }
     }
 
@@ -143,14 +149,14 @@ impl Interpreter {
         let current_memory = &mut self.memory[self.pointer];
         if *current_memory == 0 {
             log::debug!(
-                "Moo: current memory block has 0 - reading a single ASCII charactor from STDIN."
+                "Moo: current memory block has 0 - read a single ASCII charactor from STDIN."
             );
             let mut buf = [0; 1];
             stdin.read_exact(&mut buf).unwrap();
             ensure!(buf.is_ascii(), ErrorKind::NotAscii);
             *current_memory = buf[0] as i32;
         } else {
-            log::debug!("Moo: current memory block is not 0 - writing the ASCII character that corresponds to the value in the current memory block to STDOUT.");
+            log::debug!("Moo: current memory block has {} - write the ASCII character that corresponds to the value in the current memory block to STDOUT.", current_memory);
             stdout.write_all(&[*current_memory as u8]).unwrap();
         }
         Ok(())
@@ -160,7 +166,7 @@ impl Interpreter {
     fn decrement_byte(&mut self) -> Result<()> {
         // wrapping_add: オーバーフローを無視して減算する
         self.memory[self.pointer] = self.memory[self.pointer].wrapping_sub(1);
-        log::debug!("MOo: decrement current memory value by 1");
+        log::debug!("MOo: decrement current memory value by 1.");
         Ok(())
     }
 
@@ -168,7 +174,7 @@ impl Interpreter {
     fn increment_byte(&mut self) -> Result<()> {
         // wrapping_sub: オーバーフローを無視して加算する
         self.memory[self.pointer] = self.memory[self.pointer].wrapping_add(1);
-        log::debug!("MoO: increment current memory value by 1");
+        log::debug!("MoO: increment current memory value by 1.");
         Ok(())
     }
 
@@ -179,6 +185,7 @@ impl Interpreter {
                 self.program_counter + 2 < self.program.len(),
                 ErrorKind::UnmatchedEndLoop
             );
+            log::debug!("MOO: current memory block has 0 - resume execution after the next matching `moo` command.");
             // pc: Program counter for this loop
             let mut pc = self.program_counter + 2;
             // c: Count `moo` and `MOO`
@@ -197,6 +204,8 @@ impl Interpreter {
                 ensure!(pc + 1 < self.program.len(), ErrorKind::UnmatchedEndLoop);
                 pc += 1;
             }
+        } else {
+            log::debug!("MOO: current memory block has {} - continue with next command.", self.memory[self.pointer]);
         }
         Ok(())
     }
@@ -204,6 +213,7 @@ impl Interpreter {
     /// OOO
     fn set_zero(&mut self) -> Result<()> {
         self.memory[self.pointer] = 0;
+        log::debug!("set 0 to current memory block.");
         Ok(())
     }
 
@@ -213,8 +223,10 @@ impl Interpreter {
         if let Some(value) = self.register {
             *current_memory = value;
             self.register = None;
+            log::debug!("MMM: register has {} - paste the value into the current memory block and clear the register.", current_memory);
         } else {
             self.register = Some(*current_memory);
+            log::debug!("MMM: no current value in register - copy current memory block value.");
         }
         Ok(())
     }
@@ -224,7 +236,7 @@ impl Interpreter {
         stdout
             .write_all(self.memory[self.pointer].to_string().as_bytes())
             .unwrap();
-        log::debug!("OOM: writing value of current memory block to STDOUT as an integer");
+        log::debug!("OOM: writing value of current memory block to STDOUT as an integer.");
         Ok(())
     }
 
@@ -237,7 +249,7 @@ impl Interpreter {
         } else {
             bail!(ErrorKind::NotInteger)
         }
-        log::debug!("oom: reading an integer from STDIN and put it into the current memory block");
+        log::debug!("oom: reading an integer from STDIN and put it into the current memory block.");
         Ok(())
     }
 }
