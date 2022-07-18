@@ -16,12 +16,13 @@ cowi 0.1.0
 A interpreter for COW programming language
 
 USAGE:
-    cowi <FILE_PATH>
+    cowi [OPTIONS] <FILE_PATH>
 
 ARGS:
     <FILE_PATH>    Path to COW file
 
 OPTIONS:
-    -h, --help       Print help information
-    -V, --version    Print version information
+    -h, --help                     Print help information
+    -l, --log-level <LOG_LEVEL>    Specify log filter level
+    -V, --version                  Print version information
 ```
