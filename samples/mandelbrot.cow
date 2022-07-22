@@ -1,0 +1,5034 @@
+Increment value (x13)     - MoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+Increment value (x2)      - MoOMoO -
+Increment pointer (x3)    - moOmoOmoO -
+Increment value (x5)      - MoOMoOMoOMoOMoO -
+Increment pointer (x1)    - moO -
+Increment value (x2)      - MoOMoO -
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Decrement pointer (x6)    - mOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+Increment value (x6)      - MoOMoOMoOMoOMoOMoO -
+Increment pointer (x1)    - moO -
+Decrement value (x3)      - MOoMOoMOo -
+Increment pointer (x10)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x15)     - MoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoO -
+
+[[ Begin loop ]]          = MOO =
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Decrement value (x1)      - MOo -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+Set value to 0            - OOO
+Increment value (x1)      - MoO -
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+Increment value (x5)      - MoOMoOMoOMoOMoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Increment pointer (x27)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x17)   - mOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x3)    - moOmoOmoO -
+Set value to 0            - OOO
+Increment value (x1)      - MoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+Set value to 0            - OOO
+Increment pointer (x2)    - moOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+Set value to 0            - OOO
+Increment value (x1)      - MoO -
+Decrement pointer (x6)    - mOomOomOomOomOomOo -
+Increment value (x4)      - MoOMoOMoOMoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x6)    - mOomOomOomOomOomOo -
+Increment value (x7)      - MoOMoOMoOMoOMoOMoOMoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x16)   - mOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x3)    - moOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Set value to 0            - OOO
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x6)    - mOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x6)    - mOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x2)    - mOomOo -
+Increment value (x1)      - MoO -
+Decrement pointer (x3)    - mOomOomOo -
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x2)    - mOomOo -
+Increment value (x1)      - MoO -
+Decrement pointer (x3)    - mOomOomOo -
+Increment value (x1)      - MoO -
+Decrement pointer (x2)    - mOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x2)    - mOomOo -
+Increment value (x1)      - MoO -
+Decrement pointer (x5)    - mOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x15)     - MoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoO -
+
+[[ Begin loop ]]          = MOO =
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Decrement value (x1)      - MOo -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x4)    - mOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x4)    - moOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x4)    - mOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x5)    - mOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x2)    - mOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x2)    - moOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x2)    - mOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+Increment value (x1)      - MoO -
+Increment pointer (x2)    - moOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x4)    - mOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x8)    - mOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x10)   - mOomOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+Increment value (x1)      - MoO -
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Decrement pointer (x1)    - mOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x4)    - mOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x1)    - mOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x6)    - mOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x4)    - moOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x3)    - mOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x3)    - mOomOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+Increment value (x1)      - MoO -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+Decrement value (x1)      - MOo -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x5)    - mOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x5)    - mOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x6)    - mOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x3)    - mOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x3)    - moOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x3)    - mOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Decrement pointer (x4)    - mOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x8)    - mOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x2)    - moOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x11)   - mOomOomOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x2)    - moOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x2)    - mOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Decrement pointer (x1)    - mOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x4)    - mOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x1)    - mOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x6)    - mOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x4)    - moOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x3)    - mOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x3)    - mOomOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+Increment value (x1)      - MoO -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x4)    - moOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x36)   - mOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x36)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x15)     - MoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoO -
+
+[[ Begin loop ]]          = MOO =
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+Decrement value (x1)      - MOo -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Decrement value (x1)      - MOo -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Increment pointer (x21)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x3)    - mOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x3)    - moOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x3)    - mOomOomOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Decrement pointer (x3)    - mOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x4)    - mOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x4)    - moOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x4)    - mOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x13)   - mOomOomOomOomOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x4)    - moOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Increment pointer (x4)    - moOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x4)    - mOomOomOomOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Decrement pointer (x4)    - mOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x3)    - mOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x3)    - moOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x3)    - mOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x12)   - mOomOomOomOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x3)    - moOmoOmoO -
+Set value to 0            - OOO
+Increment value (x1)      - MoO -
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x8)    - mOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Increment pointer (x3)    - moOmoOmoO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x4)    - mOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x26)     - MoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoO -
+Increment pointer (x2)    - moOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x4)    - mOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x4)    - moOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x4)    - mOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x2)    - mOomOo -
+Set value to 0            - OOO
+Decrement pointer (x2)    - mOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x2)    - moOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x1)    - mOo -
+Increment value (x1)      - MoO -
+Increment pointer (x4)    - moOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x2)    - mOomOo -
+Set value to 0            - OOO
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x2)    - mOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Increment pointer (x3)    - moOmoOmoO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x4)    - mOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x3)    - moOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x13)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x2)    - moOmoO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x3)    - moOmoOmoO -
+Set value to 0            - OOO
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x4)    - mOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x4)    - moOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x4)    - mOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x3)    - mOomOomOo -
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x2)    - moOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x15)     - MoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoO -
+
+[[ Begin loop ]]          = MOO =
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Decrement value (x1)      - MOo -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+Decrement value (x1)      - MOo -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x5)    - mOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x5)    - mOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x6)    - mOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x2)    - mOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x2)    - moOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x2)    - mOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Decrement pointer (x3)    - mOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x8)    - mOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x10)   - mOomOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+Increment value (x1)      - MoO -
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Decrement pointer (x1)    - mOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x3)    - mOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x1)    - mOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x3)    - moOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x2)    - mOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x2)    - mOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+Increment value (x1)      - MoO -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x5)    - mOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x5)    - mOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x4)    - mOomOomOomOo -
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+Decrement value (x1)      - MOo -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x5)    - mOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x5)    - mOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x6)    - mOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x2)    - mOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x2)    - moOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x2)    - mOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+Increment value (x1)      - MoO -
+Increment pointer (x2)    - moOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x4)    - mOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x8)    - mOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x10)   - mOomOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+Increment value (x1)      - MoO -
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Decrement pointer (x1)    - mOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x4)    - mOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x1)    - mOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x6)    - mOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x4)    - moOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x3)    - mOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x3)    - mOomOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+Increment value (x1)      - MoO -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x4)    - moOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x36)   - mOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x36)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x3)    - moOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x36)   - mOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x36)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x15)     - MoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoO -
+
+[[ Begin loop ]]          = MOO =
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+Decrement value (x1)      - MOo -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Decrement value (x1)      - MOo -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x6)    - mOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+Set value to 0            - OOO
+Increment pointer (x3)    - moOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x4)    - moOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x1)    - mOo -
+Decrement value (x1)      - MOo -
+Decrement pointer (x4)    - mOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x6)    - mOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+Increment value (x2)      - MoOMoO -
+Decrement pointer (x4)    - mOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x5)    - mOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x5)    - mOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x5)    - mOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+Set value to 0            - OOO
+Decrement pointer (x6)    - mOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x4)    - moOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x4)    - mOomOomOomOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Decrement pointer (x4)    - mOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+Decrement value (x1)      - MOo -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x2)    - moOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x2)    - mOomOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Decrement pointer (x2)    - mOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x3)    - mOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x3)    - moOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x3)    - mOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x12)   - mOomOomOomOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x3)    - moOmoOmoO -
+Set value to 0            - OOO
+Increment value (x1)      - MoO -
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Increment pointer (x3)    - moOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x3)    - mOomOomOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Decrement pointer (x3)    - mOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x2)    - mOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x2)    - moOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x2)    - mOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x11)   - mOomOomOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x4)    - moOmoOmoOmoO -
+Set value to 0            - OOO
+Increment value (x1)      - MoO -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x8)    - mOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x4)    - moOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x4)    - mOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x4)    - moOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x4)    - mOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Increment pointer (x2)    - moOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x2)    - mOomOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x2)    - mOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x2)    - mOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x8)    - mOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x4)    - mOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x14)   - mOomOomOomOomOomOomOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x11)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x3)    - mOomOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x14)   - mOomOomOomOomOomOomOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x11)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x2)    - mOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x3)    - mOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x14)   - mOomOomOomOomOomOomOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x11)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x3)    - mOomOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x12)   - mOomOomOomOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x4)    - moOmoOmoOmoO -
+Set value to 0            - OOO
+Decrement pointer (x4)    - mOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x3)    - moOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x3)    - mOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x3)    - moOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x3)    - mOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Increment value (x1)      - MoO -
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x1)    - mOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x8)    - mOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x3)    - mOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x14)   - mOomOomOomOomOomOomOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x10)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x4)    - mOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x14)   - mOomOomOomOomOomOomOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x10)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x2)    - moOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x4)    - mOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x14)   - mOomOomOomOomOomOomOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x10)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x4)    - mOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x11)   - mOomOomOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x6)    - mOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+[[ End loop ]]            = moo =
+
+Increment pointer (x4)    - moOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x4)    - mOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x4)    - moOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x4)    - mOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x4)    - mOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x14)   - mOomOomOomOomOomOomOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x11)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x3)    - mOomOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x14)   - mOomOomOomOomOomOomOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x11)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x2)    - mOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x3)    - mOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x14)   - mOomOomOomOomOomOomOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x11)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x3)    - mOomOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x12)   - mOomOomOomOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x2)    - moOmoO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x2)    - moOmoO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x4)    - mOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x4)    - moOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x4)    - mOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x3)    - mOomOomOo -
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x15)     - MoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoO -
+
+[[ Begin loop ]]          = MOO =
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Decrement value (x1)      - MOo -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x4)    - mOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x4)    - moOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x4)    - mOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x5)    - mOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x2)    - mOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x2)    - moOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x2)    - mOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Decrement pointer (x3)    - mOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x8)    - mOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x10)   - mOomOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+Increment value (x1)      - MoO -
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Decrement pointer (x1)    - mOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x3)    - mOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x1)    - mOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x3)    - moOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x2)    - mOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x2)    - mOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+Increment value (x1)      - MoO -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x3)    - moOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x36)   - mOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x36)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+Set value to 0            - OOO
+Increment pointer (x4)    - moOmoOmoOmoO -
+Increment value (x15)     - MoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoO -
+
+[[ Begin loop ]]          = MOO =
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+Decrement value (x1)      - MOo -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Decrement value (x1)      - MOo -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x3)    - moOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x3)    - mOomOomOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Decrement pointer (x3)    - mOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x4)    - mOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x4)    - moOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x4)    - mOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x13)   - mOomOomOomOomOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x4)    - moOmoOmoOmoO -
+Set value to 0            - OOO
+Increment value (x1)      - MoO -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Increment pointer (x4)    - moOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x4)    - mOomOomOomOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Decrement pointer (x4)    - mOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x3)    - mOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x3)    - moOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x3)    - mOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x12)   - mOomOomOomOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x3)    - moOmoOmoO -
+Set value to 0            - OOO
+Increment value (x1)      - MoO -
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x8)    - mOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x3)    - moOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x3)    - mOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x3)    - moOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x3)    - mOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Increment value (x1)      - MoO -
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Increment pointer (x3)    - moOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x3)    - mOomOomOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x3)    - mOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x3)    - mOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x8)    - mOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x1)    - mOo -
+Decrement value (x1)      - MOo -
+Decrement pointer (x10)   - mOomOomOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x12)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x2)    - mOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x2)    - moOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x2)    - mOomOo -
+Decrement value (x1)      - MOo -
+Decrement pointer (x10)   - mOomOomOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x12)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x3)    - mOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x2)    - moOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x1)    - mOo -
+Increment value (x1)      - MoO -
+Increment pointer (x2)    - moOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x2)    - mOomOo -
+Decrement value (x1)      - MOo -
+Decrement pointer (x10)   - mOomOomOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x12)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x2)    - mOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x2)    - moOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x13)   - mOomOomOomOomOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+[[ End loop ]]            = moo =
+
+Increment pointer (x4)    - moOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x4)    - mOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x4)    - moOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x4)    - mOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Increment pointer (x2)    - moOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x2)    - mOomOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x2)    - mOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x2)    - mOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x8)    - mOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Increment pointer (x2)    - moOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x2)    - mOomOo -
+Decrement value (x1)      - MOo -
+Decrement pointer (x10)   - mOomOomOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x11)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x1)    - mOo -
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x1)    - mOo -
+Decrement value (x1)      - MOo -
+Decrement pointer (x10)   - mOomOomOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x11)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x2)    - mOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x3)    - moOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x2)    - mOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x1)    - mOo -
+Decrement value (x1)      - MOo -
+Decrement pointer (x10)   - mOomOomOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x11)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x1)    - mOo -
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x12)   - mOomOomOomOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x5)    - mOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x3)    - moOmoOmoO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x4)    - moOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x3)    - moOmoOmoO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x6)    - mOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x6)    - mOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x4)    - mOomOomOomOo -
+Increment value (x1)      - MoO -
+Decrement pointer (x2)    - mOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x4)    - moOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x1)    - mOo -
+Decrement value (x1)      - MOo -
+Decrement pointer (x4)    - mOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x2)    - moOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+Increment value (x2)      - MoOMoO -
+Decrement pointer (x4)    - mOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x5)    - mOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Increment pointer (x2)    - moOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x2)    - mOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x2)    - mOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x5)    - mOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x5)    - mOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Increment pointer (x4)    - moOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x4)    - mOomOomOomOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Decrement pointer (x4)    - mOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+Decrement value (x1)      - MOo -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x3)    - moOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x3)    - mOomOomOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Decrement pointer (x3)    - mOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x2)    - mOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x2)    - moOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x2)    - mOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x11)   - mOomOomOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x4)    - moOmoOmoOmoO -
+Set value to 0            - OOO
+Increment value (x1)      - MoO -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Increment pointer (x2)    - moOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x2)    - mOomOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Decrement pointer (x2)    - mOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x3)    - mOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x3)    - moOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x3)    - mOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x12)   - mOomOomOomOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x3)    - moOmoOmoO -
+Set value to 0            - OOO
+Increment value (x1)      - MoO -
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x8)    - mOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x3)    - moOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x3)    - mOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x3)    - moOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x3)    - mOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Increment value (x1)      - MoO -
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x1)    - mOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x8)    - mOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x2)    - mOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x13)   - mOomOomOomOomOomOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x10)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x3)    - mOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x13)   - mOomOomOomOomOomOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x10)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x2)    - moOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x3)    - mOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x13)   - mOomOomOomOomOomOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x10)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x3)    - mOomOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x11)   - mOomOomOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+Set value to 0            - OOO
+Increment pointer (x2)    - moOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x2)    - mOomOo -
+Increment value (x1)      - MoO -
+Decrement pointer (x5)    - mOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+[[ End loop ]]            = moo =
+
+Increment pointer (x4)    - moOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x4)    - mOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x4)    - moOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x4)    - mOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Increment pointer (x2)    - moOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x2)    - mOomOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x2)    - mOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x2)    - mOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x8)    - mOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x3)    - mOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x13)   - mOomOomOomOomOomOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x11)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x2)    - mOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x13)   - mOomOomOomOomOomOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x11)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x2)    - mOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x2)    - mOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x13)   - mOomOomOomOomOomOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x11)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x2)    - mOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x12)   - mOomOomOomOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+[[ End loop ]]            = moo =
+
+Increment pointer (x4)    - moOmoOmoOmoO -
+Set value to 0            - OOO
+Decrement pointer (x4)    - mOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x4)    - moOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x4)    - mOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x4)    - moOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x4)    - mOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x2)    - moOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x2)    - mOomOo -
+Increment value (x1)      - MoO -
+Decrement pointer (x5)    - mOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x3)    - mOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x13)   - mOomOomOomOomOomOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x11)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x2)    - mOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x13)   - mOomOomOomOomOomOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x11)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x2)    - mOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x2)    - mOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x13)   - mOomOomOomOomOomOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x11)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x2)    - mOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x12)   - mOomOomOomOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x2)    - moOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x3)    - moOmoOmoO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x4)    - mOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x4)    - moOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x4)    - mOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x3)    - mOomOomOo -
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x5)    - mOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x5)    - mOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x3)    - mOomOomOo -
+Increment value (x1)      - MoO -
+Decrement pointer (x2)    - mOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x15)     - MoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoO -
+
+[[ Begin loop ]]          = MOO =
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Decrement value (x1)      - MOo -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x4)    - mOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x4)    - moOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x4)    - mOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x5)    - mOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x2)    - mOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x2)    - moOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x2)    - mOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+Increment value (x1)      - MoO -
+Increment pointer (x2)    - moOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x4)    - mOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x8)    - mOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x10)   - mOomOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+Increment value (x1)      - MoO -
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x4)    - mOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x1)    - mOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x6)    - mOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x4)    - moOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x3)    - mOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x3)    - mOomOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+Increment value (x1)      - MoO -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+Decrement value (x1)      - MOo -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x5)    - mOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x5)    - mOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x6)    - mOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x3)    - mOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x3)    - moOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x3)    - mOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Decrement pointer (x4)    - mOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x8)    - mOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x2)    - moOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x11)   - mOomOomOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x2)    - moOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x2)    - mOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Decrement pointer (x1)    - mOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x4)    - mOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x1)    - mOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x6)    - mOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x4)    - moOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x3)    - mOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x3)    - mOomOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+Increment value (x1)      - MoO -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x4)    - moOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x36)   - mOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x36)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x15)     - MoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoO -
+
+[[ Begin loop ]]          = MOO =
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+Decrement value (x1)      - MOo -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Decrement value (x1)      - MOo -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Increment pointer (x21)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x3)    - mOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x3)    - moOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x3)    - mOomOomOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Decrement pointer (x3)    - mOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x4)    - mOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x4)    - moOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x4)    - mOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x13)   - mOomOomOomOomOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x4)    - moOmoOmoOmoO -
+Set value to 0            - OOO
+Increment value (x1)      - MoO -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Increment pointer (x4)    - moOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x4)    - mOomOomOomOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Decrement pointer (x4)    - mOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x3)    - mOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x3)    - moOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x3)    - mOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x3)    - moOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x12)   - mOomOomOomOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x3)    - moOmoOmoO -
+Set value to 0            - OOO
+Increment value (x1)      - MoO -
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x8)    - mOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x2)    - moOmoO -
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x4)    - mOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x4)    - moOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x4)    - mOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x2)    - mOomOo -
+Set value to 0            - OOO
+Decrement pointer (x2)    - mOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x2)    - moOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x2)    - mOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x4)    - moOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x4)    - mOomOomOomOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Decrement pointer (x4)    - mOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x6)    - mOomOomOomOomOomOo -
+Print the ASCII character - Moo
+Increment pointer (x2)    - moOmoO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x4)    - moOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+Print the ASCII character - Moo
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x3)    - mOomOomOo -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x3)    - moOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment pointer (x3)    - moOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+Set value to 0            - OOO
+Increment pointer (x4)    - moOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+Increment value (x11)     - MoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x4)    - moOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x14)   - mOomOomOomOomOomOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x2)    - moOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x6)    - mOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x6)    - mOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Increment pointer (x3)    - moOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x10)   - mOomOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+[[ End loop ]]            = moo =
+
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Increment pointer (x2)    - moOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Increment pointer (x4)    - moOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x4)    - mOomOomOomOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x4)    - mOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x4)    - moOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x4)    - mOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x2)    - mOomOo -
+Increment value (x1)      - MoO -
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x2)    - mOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x14)   - mOomOomOomOomOomOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Decrement pointer (x1)    - mOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x1)    - mOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x3)    - mOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x3)    - moOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x6)    - mOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x6)    - mOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+Increment value (x1)      - MoO -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x4)    - mOomOomOomOo -
+Set value to 0            - OOO
+Increment value (x1)      - MoO -
+Decrement pointer (x3)    - mOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x2)    - mOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x4)    - moOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Decrement pointer (x1)    - mOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x1)    - mOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x3)    - mOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x3)    - moOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x6)    - mOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x6)    - mOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+Increment value (x1)      - MoO -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+Increment value (x5)      - MoOMoOMoOMoOMoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x4)    - moOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x5)    - mOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x5)    - mOomOomOomOomOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Decrement pointer (x5)    - mOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x16)   - mOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x4)    - moOmoOmoOmoO -
+Set value to 0            - OOO
+Increment value (x1)      - MoO -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x2)    - mOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x5)    - mOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x5)    - mOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x14)   - mOomOomOomOomOomOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x3)    - moOmoOmoO -
+Set value to 0            - OOO
+Increment value (x1)      - MoO -
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x8)    - mOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x4)    - moOmoOmoOmoO -
+Set value to 0            - OOO
+Decrement pointer (x3)    - mOomOomOo -
+Increment value (x5)      - MoOMoOMoOMoOMoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x4)    - moOmoOmoOmoO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x5)    - mOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+[[ End loop ]]            = moo =
+
+Increment pointer (x3)    - moOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x4)    - mOomOomOomOo -
+Print the ASCII character - Moo
+Increment pointer (x10)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+Set value to 0            - OOO
+Increment pointer (x3)    - moOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+Increment value (x10)     - MoOMoOMoOMoOMoOMoOMoOMoOMoOMoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x15)   - mOomOomOomOomOomOomOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x8)    - mOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x8)    - mOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Set value to 0            - OOO
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x8)    - mOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+Set value to 0            - OOO
+Increment value (x1)      - MoO -
+Increment pointer (x2)    - moOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x10)   - mOomOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+[[ End loop ]]            = moo =
+
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x8)    - mOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x8)    - mOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x5)    - mOomOomOomOomOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x5)    - mOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x5)    - mOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+Increment value (x1)      - MoO -
+Decrement pointer (x8)    - mOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x2)    - mOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x15)   - mOomOomOomOomOomOomOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Decrement pointer (x1)    - mOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x8)    - mOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x1)    - mOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x2)    - mOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x2)    - moOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+Increment value (x1)      - MoO -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x5)    - mOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Decrement pointer (x3)    - mOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x8)    - mOomOomOomOomOomOomOomOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Decrement pointer (x8)    - mOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x2)    - mOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x3)    - moOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Decrement pointer (x1)    - mOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x8)    - mOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x1)    - mOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x2)    - mOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x2)    - moOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x7)    - moOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x7)    - mOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x1)    - mOo -
+Increment value (x1)      - MoO -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+Increment value (x5)      - MoOMoOMoOMoOMoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Increment pointer (x27)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x6)    - mOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x6)    - mOomOomOomOomOomOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Decrement pointer (x6)    - mOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+Decrement value (x1)      - MOo -
+Increment pointer (x2)    - moOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x8)    - mOomOomOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x8)    - mOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x17)   - mOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x4)    - moOmoOmoOmoO -
+Set value to 0            - OOO
+Increment value (x1)      - MoO -
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x8)    - mOomOomOomOomOomOomOomOo -
+Decrement value (x1)      - MOo -
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Decrement pointer (x8)    - mOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x2)    - mOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x6)    - mOomOomOomOomOomOo -
+Increment value (x1)      - MoO -
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x6)    - mOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x15)   - mOomOomOomOomOomOomOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x3)    - moOmoOmoO -
+Set value to 0            - OOO
+Increment value (x1)      - MoO -
+Increment pointer (x6)    - moOmoOmoOmoOmoOmoO -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x1)    - moO -
+Set value to 0            - OOO
+Increment value (x1)      - MoO -
+Decrement pointer (x1)    - mOo -
+[[ End loop ]]            = moo =
+
+[[ End loop ]]            = moo =
+
+Increment value (x1)      - MoO -
+Increment pointer (x1)    - moO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Decrement pointer (x1)    - mOo -
+
+[[ Begin loop ]]          = MOO =
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x8)    - mOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x8)    - moOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x4)    - moOmoOmoOmoO -
+Set value to 0            - OOO
+Decrement pointer (x3)    - mOomOomOo -
+Increment value (x5)      - MoOMoOMoOMoOMoO -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement value (x1)      - MOo -
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+Increment value (x1)      - MoO -
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+Increment pointer (x9)    - moOmoOmoOmoOmoOmoOmoOmoOmoO -
+[[ End loop ]]            = moo =
+
+Increment pointer (x5)    - moOmoOmoOmoOmoO -
+Decrement value (x1)      - MOo -
+Increment pointer (x27)   - moOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoOmoO -
+Decrement value (x1)      - MOo -
+Decrement pointer (x6)    - mOomOomOomOomOomOo -
+
+[[ Begin loop ]]          = MOO =
+Decrement pointer (x9)    - mOomOomOomOomOomOomOomOomOo -
+[[ End loop ]]            = moo =
+
+[[ End loop ]]            = moo =
+
+Increment pointer (x3)    - moOmoOmoO -
+[[ End loop ]]            = moo =
