@@ -1,14 +1,17 @@
-# cowi
+<div align="center">
+  <h1>cowi</h1>
+  <p>
+    <strong>Interpreter for COW programming language</strong>
+  </p>
+</div>
 
-This is a interpreter for COW programming language.
-
-# Install
+## Install
 
 ```
 $ cargo install --git https://github.com/ryuma017/cowi
 ```
 
-# Usage
+## Usage
 
 ```
 $ cowi --help
